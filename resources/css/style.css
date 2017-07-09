@@ -4,6 +4,10 @@ body {
     justify-content: center;
 }
 
+a {
+    color: seashell;
+}
+
 #main_container {
     font-family: Helvetica;
     font-size: 22px;
@@ -19,7 +23,6 @@ body {
 
 .container {
     display: flex;
-    border: 1px solid red;
 }
 
 .header.container {
